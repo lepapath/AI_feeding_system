@@ -8,15 +8,16 @@
 Η κατασκευή μας θα περιλαμβάνει δύο κάδους όπου θα αποθηκεύονται τροφές για γάτες και σκύλους. Με μια κάμερα θα αναγνωρίσουμε το ζώο που πλησίασε για να φάει. Αν είναι γάτα θα ανοίγει σχετικός διακόπτης και τη θα τροφοδοτεί με τροφή. Αντίστοιχα για το σκύλο. Σε κάθε άλλη περίπτωση θα στέλνει σχετικό μήνυμα ότι παρουσιάστηκε και άλλο άγνωστο ζώο ειδοποιώντας έτσι τη κεντρική διαχείριση του συστήματος. 
 
 Υλικά που θα χρειαστούμε :
-•	BBC Micro:bit V2 Board x 2
-•	Edge Connector Breakout Board x 1
-•	Gravity HUSKYLENS camera x 1
-•	Πλακέτα Δοκιμών	x 1
-•	Jumper Wires F-M x 2
-•	Servo (μικρά) x 4
-•	Servo (μεγάλο) x 1
-•	ESP8266 WiFi Module x 1
-•	Ultrasonic Sensor	x 1
-•	3D Printer Filament x 1
-•	I2c Display x 1
-•	Μπαταριοθήκη 4xAΑ - με USBx 1
+<p></p>
+•	BBC Micro:bit V2 Board x 2<br>
+•	Edge Connector Breakout Board x 1<br>
+•	Gravity HUSKYLENS camera x 1<br>
+•	Πλακέτα Δοκιμών	x 1<br>
+•	Jumper Wires F-M x 2<br>
+•	Servo (μικρά) x 4<br>
+•	Servo (μεγάλο) x 1<br>
+•	ESP8266 WiFi Module x 1<br>
+•	Ultrasonic Sensor	x 1<br>
+•	3D Printer Filament x 1<br>
+•	I2c Display x 1<br>
+•	Μπαταριοθήκη 4xAΑ - με USBx 1<br>
