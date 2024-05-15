@@ -9,15 +9,17 @@
 
 Υλικά που θα χρειαστούμε :
 <p></p>
-•	BBC Micro:bit V2 Board x 2<br>
-•	Edge Connector Breakout Board x 1<br>
-•	Gravity HUSKYLENS camera x 1<br>
-•	Πλακέτα Δοκιμών	x 1<br>
-•	Jumper Wires F-M x 2<br>
-•	Servo (μικρά) x 4<br>
-•	Servo (μεγάλο) x 1<br>
-•	ESP8266 WiFi Module x 1<br>
-•	Ultrasonic Sensor	x 1<br>
-•	3D Printer Filament x 1<br>
-•	I2c Display x 1<br>
-•	Μπαταριοθήκη 4xAΑ - με USBx 1<br>
+<ul>
+<li>BBC Micro:bit V2 Board x 2</li>
+<li>Edge Connector Breakout Board x 1</li>
+<li>Gravity HUSKYLENS camera x 1</li>
+<li>Πλακέτα Δοκιμών	x 1</li>
+<li>Jumper Wires F-M x 2</li>
+<li>Servo (μικρά) x 4</li>
+<li>Servo (μεγάλο) x 1</li>
+<li>ESP8266 WiFi Module x 1</li>
+<li>Ultrasonic Sensor	x 1</li>
+<li>3D Printer Filament x 1</li>
+<li>I2c Display x 1</li>
+<li>Μπαταριοθήκη 4xAΑ - με USBx 1</li>
+</ul>
